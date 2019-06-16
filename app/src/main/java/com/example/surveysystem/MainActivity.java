@@ -18,9 +18,16 @@ public class MainActivity extends Activity {
             @Override
             public void onComplete(AWSStartupResult awsStartupResult) {
                 Log.d("YourMainActivity", "AWSMobileClient is instantiated and you are connected to AWS!");
+                Log.d("YourMainActivity", "AWSMobileClient is instantiated and you are connected to AWS!");
+                Log.d("YourMainActivity", "AWSMobileClient is instantiated and you are connected to AWS!");
+                Log.d("YourMainActivity", "AWSMobileClient is instantiated and you are connected to AWS!");
+                Log.d("YourMainActivity", "AWSMobileClient is instantiated and you are connected to AWS!");
+
             }
         }).execute();
 
         // More onCreate code ...
     }
 }
+
+//mvlfjnfkjbnfskjbvhkjsdvhnldvjladjhocjaslichnslajcnh
